@@ -1,4 +1,12 @@
    ### Hi 👋, I'm Alina
+   
+ ## A passionate Software QA Tester
+
+📫 Connect with me: https://www.linkedin.com/in/alina-anitei/
+
+## Languages and Tools: 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript https://www.postman.com/ https://nodejs.org/en
+
 
 <!--
 **AniteiAlina/AniteiAlina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
