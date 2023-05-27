@@ -1,6 +1,6 @@
 
-https://s3.amazonaws.com/algoworksupload/new-algoworks/wp-content/uploads/2016/05/18052646/stm_banner.gif
-  ### Hi 👋, I'm Alina
+![Alt Text] (https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
+### Hi 👋, I'm Alina
    
  ## A passionate Software QA Tester
 
