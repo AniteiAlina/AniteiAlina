@@ -1,9 +1,9 @@
 
 ![Alt Text](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
 
-### Hi 👋, I'm Alina
+                              ### Hi 👋, I'm Alina
    
- ## A passionate Software QA Tester
+                         ## A passionate Software QA Tester
 
 📫 Connect with me: [https://www.linkedin.com/in/alina-anitei/]
 
