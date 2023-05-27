@@ -2,8 +2,17 @@
 
  <h1 align="center"> Hi 👋, I'm Alina </h1>
  
- <h2 align="center">  What I do? I catch bugs 🐞 and write manual/automation tests 👩🏼‍💻 </h2>
+ <h2 align="center">  What I do? I catch bugs 🐞 and write manual / automation tests 👩🏼‍💻 </h2>
  <h3 align="center"> 📫 Connect with me: </h3>
+  <p align="center"> dir="auto">
+ <a href="https://www.linkedin.com/in/alina-anitei/"
+
+
+
+
+
+
+
 
 ## Languages and Tools: 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript ]
