@@ -1,7 +1,8 @@
 ![Alt Text](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
 
  <h1 align="center"> Hi 👋, I'm Alina </h1>
- <h2 align="center"> tabindex="-1" What I do? I catch bugs 🐞 and write manual/automation tests 👩🏼‍💻 </h2>
+ 
+ <h2 align="center">  What I do? I catch bugs 🐞 and write manual/automation tests 👩🏼‍💻 </h2>
  <h3 align="center"> 📫 Connect with me: </h3>
 
 ## Languages and Tools: 
