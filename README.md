@@ -1,9 +1,9 @@
 ![Alt Text](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
 
  <h1 align="center"> Hi 👋, I'm Alina </h1>
- 
+ <h1 align="center"> A passionate Software QA tester </h1>
 
-📫 Connect with me: [https://www.linkedin.com/in/alina-anitei/]
+<h1 align="center"> 📫 Connect with me: </h1>
 
 ## Languages and Tools: 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript ]
