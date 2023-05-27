@@ -1,6 +1,6 @@
 
 ![Alt Text](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
-### <div align="center">
+ <div align="center">
   Hi 👋, I'm Alina.
 </div>
  
