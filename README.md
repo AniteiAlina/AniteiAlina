@@ -1,5 +1,5 @@
-  https://www.lambdatest.com/resources/images/Software-Test-Management.gif
-  
+  ![Uploading Software-Test-Management.gif…]()
+
   ### Hi 👋, I'm Alina
    
  ## A passionate Software QA Tester
