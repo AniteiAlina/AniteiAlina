@@ -1,7 +1,13 @@
-### Hi 👋, I'm Alina
+   ### Hi 👋, I'm Alina
 
 <!--
 **AniteiAlina/AniteiAlina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+  ## A passionate Software QA Tester
+
+📫 Connect with me: https://www.linkedin.com/in/alina-anitei/
+
+
 
 Here are some ideas to get you started:
 
