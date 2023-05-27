@@ -1,4 +1,6 @@
-   ### Hi 👋, I'm Alina
+  https://www.lambdatest.com/resources/images/Software-Test-Management.gif
+  
+  ### Hi 👋, I'm Alina
    
  ## A passionate Software QA Tester
 
