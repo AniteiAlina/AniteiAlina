@@ -2,12 +2,12 @@
    
  ## A passionate Software QA Tester
 
-📫 Connect with me: https://www.linkedin.com/in/alina-anitei/
+📫 Connect with me: [https://www.linkedin.com/in/alina-anitei/]
 
 ## Languages and Tools: 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript 
-https://www.postman.com/
-https://nodejs.org/en
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript ]
+[https://www.postman.com/]
+[https://nodejs.org/en]
 
 
 <!--
