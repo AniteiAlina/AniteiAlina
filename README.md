@@ -1,5 +1,6 @@
 
-![Alt Text] (https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
+![Alt Text](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
+
 ### Hi 👋, I'm Alina
    
  ## A passionate Software QA Tester
