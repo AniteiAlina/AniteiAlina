@@ -1,9 +1,9 @@
 
 ![Alt Text](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
 
-<div align="center">
-  ### Hi 👋, I'm Alina.
-  ## A passionate Software QA Tester
+### <div align="center">
+  Hi 👋, I'm Alina.
+ A passionate Software QA Tester
 </div>
  
 
