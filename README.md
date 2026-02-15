@@ -1,10 +1,9 @@
 ![Alt Text](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
 <h1 align="center">Hi 👋, I'm Alina</h1>
-<h3 align="center">What I do? I catch bugs 🐞 and write manual/automation tests 👩</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aniteialina&label=Profile%20views&color=0e75b6&style=flat" alt="aniteialina" /> </p>
 
-- 🌱 I’m currently learning **Python + Selenium**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
