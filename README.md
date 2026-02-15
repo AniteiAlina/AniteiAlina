@@ -2,12 +2,11 @@
 <h1 align="center">Hi 👋, I'm Alina</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aniteialina&label=Profile%20views&color=0e75b6&style=flat" alt="aniteialina" /> </p>
-
-
-<h3 align="center">Connect with me:</h3>
+<<h3 align="center">Connect with me:</h3>
 <p align="center">
-
+<a href="https://www.linkedin.com/in/alina-anitei/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
