@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alina</h1>
 
 <p align="center">
-  <strong>Marketing @ Piwi.ai | Eliminating manual data entry with AI</strong>
+  <strong>Growth @ Piwi.ai | Helping businesses eliminate manual data entry with AI>
 </p>
 
 <p align="center">
